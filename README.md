@@ -57,7 +57,7 @@ def QR_Decomposition(A):
     print(R)
 a = np.array(eval(input()))
 QR_Decomposition(a)
-
+   
 
 
 
@@ -67,7 +67,8 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![image](https://github.com/srisrisaranya/QRdecomposition/assets/148516638/f3e68f37-1edd-473e-b6a4-90a17c50a687)
+![image](https://github.com/srisrisaranya/QRdecomposition/assets/148516638/28bb4a33-6e10-450a-967a-40d084768a40)
+
 
 ```
 
